@@ -3,7 +3,6 @@
 This repository contains Python scripts designed to automate tasks related to managing PagerDuty users and incidents.
 
 ## Table of Contents
-- [PagerDuty Lab](#pagerduty-lab)
   - [Table of Contents](#table-of-contents)
   - [Scripts Overview](#scripts-overview)
   - [Requirements](#requirements)
@@ -15,7 +14,7 @@ This repository contains Python scripts designed to automate tasks related to ma
 ## Scripts Overview
 Here’s a list of the script in this repository along with its description:
 
-1. **pagerduty_user_export.py**: Exports a list of users from PagerDuty, including their details such as roles, contact information, and on-call schedules.
+1. **[pagerduty_user_export.py](pagerduty_user_export.py)**: Exports a list of users from PagerDuty, including their details such as roles, contact information, and on-call schedules.
 
 ## Requirements
 - **Python 3.x**: Ensure that Python 3 is installed on your system.
