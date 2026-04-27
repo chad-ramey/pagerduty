@@ -23,7 +23,7 @@ Here’s a list of the script in this repository along with its description:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo-name/pagerduty-automation-scripts.git
+   git clone https://github.com/chad-ramey/pagerduty-automation-scripts.git
    ```
 2. Install the required dependencies:
    ```bash
